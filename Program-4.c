@@ -9,7 +9,7 @@ int main ()
  
 //Fill the missing code
  printf("Enter n value\n");
-
+ scanf("%d",&n);
  //Fill the missing code
 for(i=1;i<=n;i++)
  {
